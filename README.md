@@ -1,2 +1,2 @@
-# TestRepoWpi
-Test of git for WPI students
+# Hello
+My name is Tim.
